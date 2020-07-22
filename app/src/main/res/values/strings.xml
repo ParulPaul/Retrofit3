@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Retrofit2</string>
+    <string-array name="news_categories">
+
+        <item>business</item>
+        <item>entertainment</item>
+        <item>sports</item>
+        <item>health</item>
+        <item>science</item>
+        <item>technology</item>
+
+    </string-array>
+
+    <string-array name="country_code">
+        <item>us</item>
+        <item>in</item>
+        <item>ch</item>
+        <item>gb</item>
+        <item>au</item>
+    </string-array>
+
+</resources>
